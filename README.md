@@ -58,7 +58,7 @@ The logic was developed and tested in CODESYS using PLC simulation.
 ---
 # Visualisation image
 
-<img src="" width="700"/>
+<img src="https://github.com/SujalPatil1616/PLC-Water-Tank-Control-CODESYS/blob/main/Water_Tank_Control_Visualisation.jpeg" width="700"/>
 
 
 # 🧪 Simulation and Test Cases
