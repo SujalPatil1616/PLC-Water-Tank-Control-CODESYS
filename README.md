@@ -56,6 +56,10 @@ The control logic follows a priority-based approach:
 The logic was developed and tested in CODESYS using PLC simulation.
 
 ---
+# Visualisation image
+
+<img src="" width="700"/>
+
 
 # 🧪 Simulation and Test Cases
 
